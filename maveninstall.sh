@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=async-http-filters-1.0.0.jar -DgroupId=self -DartifactId=async-http-filters -Dversion=1.0.0 -Dpackaging=jar -DgeneratePom=true
